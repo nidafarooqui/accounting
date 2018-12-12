@@ -1,6 +1,6 @@
 import React from 'react';
 import { css } from 'emotion';
-import logo from '../../public/images/logo.png';
+import logo from '../../build/images/logo.png';
 import Grid from '@material-ui/core/Grid';
 import Typography from '@material-ui/core/Typography';
 import Tooltip from '@material-ui/core/Tooltip';
