@@ -6,7 +6,7 @@ import Typography from '@material-ui/core/Typography';
 import Tooltip from '@material-ui/core/Tooltip';
 import Button from '@material-ui/core/Button';
 import { Link } from 'react-router-dom';
-import LogoutButton from '../../public/images/logout_icon.png';
+import LogoutButton from '../../build/images/logout_icon.png';
 import { routes } from '../routers/routes';
 
 const headerContainer = css`
